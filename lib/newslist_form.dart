@@ -177,6 +177,7 @@ class _NewsFormPageState extends State<NewsFormPage> {
                                       "thumbnail": _thumbnail,
                                       "category": _category,
                                       "is_featured": _isFeatured,
+                                      
                                     }),
                                   );
                                   if (context.mounted) {
